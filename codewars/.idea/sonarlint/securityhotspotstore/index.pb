@@ -49,3 +49,14 @@ Y
 )src/main/java/org/example/task6/Kata.java,e/9/e9f2ad8fec3dce876fa23af369f03247cac3f3c9
 ]
 -src/test/java/org/example/task6/KataTest.java,c/5/c52fc11560087bcd4cba546801d9e1e0b4cd4033
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+^
+.src/main/java/org/example/task7/README/md.java,c/2/c2d29462a3e20596834a4eac96ef722ca14e01c5
+Y
+)src/main/java/org/example/task7/README.md,8/4/84f2e85d3d40602219e7eb137e811d97a1d77384
+b
+2src/main/java/org/example/task7/RomanNumerals.java,b/d/bd5be3b23d61a03e4d9aa51e61a8f5c72ad76e4c
+f
+6src/test/java/org/example/task7/RomanNumeralsTest.java,f/3/f3098eca88ddf529ef5769a2d81bedcf39dd9d94
