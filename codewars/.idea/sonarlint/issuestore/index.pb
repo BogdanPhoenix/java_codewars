@@ -31,3 +31,9 @@ d
 4src/test/java/org/example/HumanReadableTimeTest.java,b/0/b0a5bca77aaf12870ccba0e9c881d08c47c33ee6
 j
 :src/test/java/org/example/task3/HumanReadableTimeTest.java,3/4/349f94b26aafa9478961b629eed97b07155d6105
+Y
+)src/main/java/org/example/task4/README.md,f/a/fa5853cc97bf5a8d6f6351c1ccb05069ece8f3e6
+e
+5src/main/java/org/example/task4/CountIPAddresses.java,b/1/b146fa97fe6a57870a8824fd103b9c0b84d93e35
+i
+9src/test/java/org/example/task4/CountIPAddressesTest.java,e/8/e84bc1d178cb82c4a57d3c734c8121425cbd6793
