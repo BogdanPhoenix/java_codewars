@@ -37,3 +37,9 @@ e
 5src/main/java/org/example/task4/CountIPAddresses.java,b/1/b146fa97fe6a57870a8824fd103b9c0b84d93e35
 i
 9src/test/java/org/example/task4/CountIPAddressesTest.java,e/8/e84bc1d178cb82c4a57d3c734c8121425cbd6793
+Y
+)src/main/java/org/example/task5/README.md,0/3/03b59885f5a6f38f717c9daf729bb347b874e355
+Y
+)src/main/java/org/example/task5/Kata.java,3/c/3c092472ed89a173ff9edfda149e9b73dff0830e
+]
+-src/test/java/org/example/task5/KataTest.java,0/3/0326b1b92ef6708c0da61bac8365d1e696b527da
