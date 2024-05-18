@@ -43,3 +43,9 @@ Y
 )src/main/java/org/example/task5/Kata.java,3/c/3c092472ed89a173ff9edfda149e9b73dff0830e
 ]
 -src/test/java/org/example/task5/KataTest.java,0/3/0326b1b92ef6708c0da61bac8365d1e696b527da
+Y
+)src/main/java/org/example/task6/README.md,4/3/4366e7e7bd29cebe8cbad7bc52b7073f25c81d35
+Y
+)src/main/java/org/example/task6/Kata.java,e/9/e9f2ad8fec3dce876fa23af369f03247cac3f3c9
+]
+-src/test/java/org/example/task6/KataTest.java,c/5/c52fc11560087bcd4cba546801d9e1e0b4cd4033
