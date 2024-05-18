@@ -10,12 +10,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class SolutionTest {
     @ParameterizedTest
-    @MethodSource("usernameValues")
+    @MethodSource("values")
     void test(int expected, int number) {
         assertEquals(expected, new Solution().solution(number));
     }
 
-    private static Stream<Arguments> usernameValues() {
+    private static Stream<Arguments> values() {
         return Stream.of(
                 Arguments.of(23, 10),
                 Arguments.of(143, 25),

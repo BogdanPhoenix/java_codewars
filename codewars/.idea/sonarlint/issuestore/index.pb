@@ -17,3 +17,9 @@ Y
 -src/main/java/org/example/task1/Solution.java,f/3/f3156b82497ca7881ce82f4a01447f580d231d45
 a
 1src/test/java/org/example/task1/SolutionTest.java,a/2/a22f5ef6d195ea52c3868c4fed275ca37c31f92d
+Y
+)src/main/java/org/example/task2/README.md,d/5/d53c49540ed48db6792286e1a67fafe780a2d8f7
+]
+-src/main/java/org/example/task2/RgbToHex.java,8/d/8d7523428f0b86f6944554122dac2bd387482aa2
+a
+1src/test/java/org/example/task2/RgbToHexTest.java,0/d/0da2e1de2712721b96d21682bbb48d32aab24dd4
