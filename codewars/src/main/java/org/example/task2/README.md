@@ -12,3 +12,4 @@ Note: Your answer should always be 6 characters long, the shorthand with 3 will 
 0, 0, 0       --> "000000"
 148, 0, 211   --> "9400D3" 
 ````
+Link to the task: https://www.codewars.com/kata/513e08acc600c94f01000001/train/java

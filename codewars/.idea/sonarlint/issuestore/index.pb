@@ -23,3 +23,11 @@ Y
 -src/main/java/org/example/task2/RgbToHex.java,8/d/8d7523428f0b86f6944554122dac2bd387482aa2
 a
 1src/test/java/org/example/task2/RgbToHexTest.java,0/d/0da2e1de2712721b96d21682bbb48d32aab24dd4
+Y
+)src/main/java/org/example/task3/README.md,5/2/52e502c8c09d4e36d2a443b9fcbff3c1dae68974
+f
+6src/main/java/org/example/task3/HumanReadableTime.java,3/a/3a6274c65da29907346d8a5ce9075f89db03355f
+d
+4src/test/java/org/example/HumanReadableTimeTest.java,b/0/b0a5bca77aaf12870ccba0e9c881d08c47c33ee6
+j
+:src/test/java/org/example/task3/HumanReadableTimeTest.java,3/4/349f94b26aafa9478961b629eed97b07155d6105
