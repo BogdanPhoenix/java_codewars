@@ -1,18 +1,8 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-c
-3src/main/java/org/example/AllocatingHotelRooms.java,7/6/768fec5ec0fbd2e54d824c9405e01590ce23c372
-g
-7src/test/java/org/example/AllocatingHotelRoomsTest.java,c/e/ce64d0f73190db466390dd257ec6141054f32203
-i
-9src/main/java/org/example/task1/AllocatingHotelRooms.java,4/f/4f1dc1b0e999dadb1ae14e77204f18494d201ad0
 Y
 )src/main/java/org/example/task1/README.md,6/d/6d506f704de119727818f1c1feb780460463c195
-m
-=src/test/java/org/example/task1/AllocatingHotelRoomsTest.java,e/b/eb0bd2a339ec26484c6842070610a1920cb0947d
-Y
-)src/test/java/org/example/task1/Test.java,3/6/36ab6251c1f5b4c80f0184a0929f09d4de2bf761
 ]
 -src/main/java/org/example/task1/Solution.java,f/3/f3156b82497ca7881ce82f4a01447f580d231d45
 a
@@ -27,8 +17,6 @@ Y
 )src/main/java/org/example/task3/README.md,5/2/52e502c8c09d4e36d2a443b9fcbff3c1dae68974
 f
 6src/main/java/org/example/task3/HumanReadableTime.java,3/a/3a6274c65da29907346d8a5ce9075f89db03355f
-d
-4src/test/java/org/example/HumanReadableTimeTest.java,b/0/b0a5bca77aaf12870ccba0e9c881d08c47c33ee6
 j
 :src/test/java/org/example/task3/HumanReadableTimeTest.java,3/4/349f94b26aafa9478961b629eed97b07155d6105
 Y
@@ -52,11 +40,15 @@ Y
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-^
-.src/main/java/org/example/task7/README/md.java,c/2/c2d29462a3e20596834a4eac96ef722ca14e01c5
 Y
 )src/main/java/org/example/task7/README.md,8/4/84f2e85d3d40602219e7eb137e811d97a1d77384
 b
 2src/main/java/org/example/task7/RomanNumerals.java,b/d/bd5be3b23d61a03e4d9aa51e61a8f5c72ad76e4c
 f
 6src/test/java/org/example/task7/RomanNumeralsTest.java,f/3/f3098eca88ddf529ef5769a2d81bedcf39dd9d94
+Y
+)src/main/java/org/example/task8/README.md,6/a/6aab859528ad6658973b1fbb44ee35fa605b2c33
+]
+-src/main/java/org/example/task8/TopWords.java,f/d/fde342371a9b8815ccddb25c4c18366c4e8dc178
+a
+1src/test/java/org/example/task8/TopWordsTest.java,f/8/f85c9c5996cb3dbae53f5627a3b5c91b01663132
