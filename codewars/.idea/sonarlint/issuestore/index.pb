@@ -100,3 +100,9 @@ a
 1src/main/java/org/example/task15/FindOutlier.java,6/c/6c3a033dc7dbd0bf370c897ebe76fba7aba54579
 e
 5src/test/java/org/example/task15/FindOutlierTest.java,4/e/4e58f8e220fad194f76b1b1cded03c9a1a9b679a
+Z
+*src/main/java/org/example/task16/README.md,5/c/5cb8cd127c713bbfa9c8f52e9a70140880b9d39e
+^
+.src/main/java/org/example/task16/Solution.java,c/5/c53d7058791f76ea6737fa52c23cc0b922ffbba3
+b
+2src/test/java/org/example/task16/SolutionTest.java,0/6/06347afe2a2461ed590f9797d6cf818ccdf9d6e5
