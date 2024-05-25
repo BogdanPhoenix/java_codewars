@@ -1,6 +1,5 @@
-package org.example;
+package org.example.task13;
 
-import org.example.task13.PhoneExample;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

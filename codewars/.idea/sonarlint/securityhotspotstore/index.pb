@@ -84,3 +84,13 @@ b
 2src/main/java/org/example/task13/PhoneExample.java,3/4/342da967ce8d5c6792faa4fa852f75a3059585eb
 `
 0src/test/java/org/example/PhoneExampleTests.java,6/6/66f46c45000afc3471f12977d9be22337fd3b825
+Z
+*src/main/java/org/example/task14/README.md,0/5/05c901fb91532cf0ec9e7d1b5b7ee23b24217038
+a
+1src/main/java/org/example/task14/BitCounting.java,0/1/01b4748439bb8d6ad633ac08b553a7c9e8199d2d
+^
+.src/test/java/org/example/BitCountingTest.java,4/f/4f61ca65cc8289ae791d6548995951be65c8809f
+g
+7src/test/java/org/example/task13/PhoneExampleTests.java,4/9/49f750e0d3be198594fa72536ad6104b76698df5
+e
+5src/test/java/org/example/task14/BitCountingTest.java,5/0/50295051ee490f73ca1ebd8113ecc89cd668bdac
