@@ -94,3 +94,9 @@ g
 7src/test/java/org/example/task13/PhoneExampleTests.java,4/9/49f750e0d3be198594fa72536ad6104b76698df5
 e
 5src/test/java/org/example/task14/BitCountingTest.java,5/0/50295051ee490f73ca1ebd8113ecc89cd668bdac
+Z
+*src/main/java/org/example/task15/README.md,9/0/905966c7cc908e1e69e0d0d2d6837661332aa0a3
+a
+1src/main/java/org/example/task15/FindOutlier.java,6/c/6c3a033dc7dbd0bf370c897ebe76fba7aba54579
+e
+5src/test/java/org/example/task15/FindOutlierTest.java,4/e/4e58f8e220fad194f76b1b1cded03c9a1a9b679a
