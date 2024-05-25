@@ -120,3 +120,9 @@ Z
 0src/main/java/org/example/task18/EqualSides.java,a/a/aaaf1e214086e61032ee072dc10e14c319e082dc
 d
 4src/test/java/org/example/task18/EqualSidesTest.java,1/c/1ce1795dc03e3105bfcd7eeef2901a1366373500
+Z
+*src/main/java/org/example/task19/README.md,1/0/10240377ab6eccc2372b0f48ad0c059896e92dd6
+a
+1src/main/java/org/example/task19/StringSplit.java,1/c/1c15180af049f2497fc79600ef365b41857ed5cb
+e
+5src/test/java/org/example/task19/StringSplitTest.java,c/7/c77542028d5af1d2742a4b729e71c97d5acff273
