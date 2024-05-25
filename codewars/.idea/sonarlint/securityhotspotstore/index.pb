@@ -76,3 +76,11 @@ Z
 *src/main/java/org/example/task12/Kata.java,c/7/c729425637c9aa7d45f483eb5657139a69bdfdf0
 ^
 .src/test/java/org/example/task12/KataTest.java,8/f/8f9bce90bdedce651e3800778a91d112bf54ed84
+Z
+*src/main/java/org/example/task13/README.md,3/6/36ef83063ee0a79d957e9002feccbfa42f3344f5
+Z
+*src/main/java/org/example/task13/Kata.java,0/9/0984b9564c7e0d6ce1dd0d88036aa03a4a4164db
+b
+2src/main/java/org/example/task13/PhoneExample.java,3/4/342da967ce8d5c6792faa4fa852f75a3059585eb
+`
+0src/test/java/org/example/PhoneExampleTests.java,6/6/66f46c45000afc3471f12977d9be22337fd3b825
