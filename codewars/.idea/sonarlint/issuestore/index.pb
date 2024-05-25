@@ -112,3 +112,11 @@ a
 1src/main/java/org/example/task17/NumberUtils.java,8/7/8746afb2b103b6f905fc52d607917598d8d9cd41
 e
 5src/test/java/org/example/task17/NumberUtilsTest.java,3/b/3bc585471f73671e857240c20495e882cb3215ed
+_
+/src/main/java/org/example/task18/MorseCode.java,4/4/44d4ea0daaa8630ed1168294b8b80af3099751aa
+Z
+*src/main/java/org/example/task18/README.md,a/7/a7072b8822866b59933c82e4e2ef045b0e9a93a0
+`
+0src/main/java/org/example/task18/EqualSides.java,a/a/aaaf1e214086e61032ee072dc10e14c319e082dc
+d
+4src/test/java/org/example/task18/EqualSidesTest.java,1/c/1ce1795dc03e3105bfcd7eeef2901a1366373500
