@@ -70,3 +70,9 @@ Z
 +src/main/java/org/example/task11/DRoot.java,2/2/2285466dddefdb7f076e62dc02107c66584de46e
 _
 /src/test/java/org/example/task11/DRootTest.java,4/6/4654e35b9d33b510351a1e7b789f127ab61a8f5c
+Z
+*src/main/java/org/example/task12/README.md,6/9/69aff04fd9e17b012c1c49bbc10245792d539606
+Z
+*src/main/java/org/example/task12/Kata.java,c/7/c729425637c9aa7d45f483eb5657139a69bdfdf0
+^
+.src/test/java/org/example/task12/KataTest.java,8/f/8f9bce90bdedce651e3800778a91d112bf54ed84
