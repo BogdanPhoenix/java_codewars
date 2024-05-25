@@ -58,3 +58,9 @@ _
 /src/main/java/org/example/task9/NextHigher.java,0/0/00d3c67d90abfaf3e1b3c06a7eff5d5f85ee642b
 c
 3src/test/java/org/example/task9/NextHigherTest.java,2/4/247885624de5c401585f5a63923f71315a7d1529
+Z
+*src/main/java/org/example/task10/README.md,4/2/425e7b55afccf45cad69ed7d1dfdf445caa059ed
+_
+/src/main/java/org/example/task10/SpinWords.java,2/1/2110f3a7fe8282c2b0b912d04402fce5d050ea28
+c
+3src/test/java/org/example/task10/SpinWordsTest.java,8/e/8ef3cdc0619d1f619b18bab05b69aa57f26dc7b0
