@@ -106,3 +106,9 @@ Z
 .src/main/java/org/example/task16/Solution.java,c/5/c53d7058791f76ea6737fa52c23cc0b922ffbba3
 b
 2src/test/java/org/example/task16/SolutionTest.java,0/6/06347afe2a2461ed590f9797d6cf818ccdf9d6e5
+Z
+*src/main/java/org/example/task17/README.md,c/d/cd8531c0c524bad03bf76ab0e70ff8349ef35381
+a
+1src/main/java/org/example/task17/NumberUtils.java,8/7/8746afb2b103b6f905fc52d607917598d8d9cd41
+e
+5src/test/java/org/example/task17/NumberUtilsTest.java,3/b/3bc585471f73671e857240c20495e882cb3215ed
